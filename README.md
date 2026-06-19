@@ -9,18 +9,6 @@ Mitsuri is a Python-based personal assistant project designed with a modular str
 - Simple and extendable architecture
 - Easy customization and expansion
 
-## Project Structure
-
-Mitsuri/
-├── Plugins/
-│ ├── init.py
-│ └── start.py
-├── Profile/
-├── main.py
-├── requirements.txt
-├── runtime.txt
-└── README.md
-
 
 ## Installation
 
